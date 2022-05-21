@@ -1,0 +1,18 @@
+Zonal level is not present in ISK
+and , we need to implement zoanl sensor support from mobile app.
+important for users: coverd gardens during the rain.
+
+owenwership
+be proactive
+improve automation
+mobile app automation is very imp
+validate those assumptions
+be consistence
+testing process books(pdfs)
+
+
+
+
+
+
+Coming few months string test will be working on.
